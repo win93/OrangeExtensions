@@ -7,7 +7,7 @@
 	<artifactId>orange-extensions</artifactId>
 	<packaging>jar</packaging>
 	<description>A pluggable jar containing stubs for the Apple Java Extensions, updated for Java 5 and 6</description>
-	<version>1.3.0</version>
+	<version>1.3.1-SNAPSHOT</version>
 	<name>orange-extensions</name>
 	<organization>
 		<name>com.yuvimasory</name>
@@ -16,13 +16,13 @@
 	<licenses>
 		<license>
 			<name>BSD</name>
-			<url>https://github.com/ymasory/OrangeExtensions/blob/master/LICENSE</url>
+			<url>https://github.com/rpax/OrangeExtensions/blob/master/LICENSE</url>
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
 	<scm>
-		<url>git@github.com:ymasory/OrangeExtensions.git</url>
-		<connection>scm:git:git@github.com/ymasory/OrangeExtensions.git</connection>
+		<url>git@github.com:rpax/OrangeExtensions.git</url>
+		<connection>scm:git:git@github.com/rpax/OrangeExtensions.git</connection>
 	</scm>
 	<developers>
 		<developer>
@@ -30,6 +30,12 @@
 			<name>Yuvi Masory</name>
 			<email>ymasory@gmail.com</email>
 			<url>http://yuvimasory.com</url>
+		</developer>
+		<developer>
+			<id>rpax</id>
+			<name>Rafael Pax</name>
+			<email>rpax@ucm.es</email>
+			<url>http://massisframework.com</url>
 		</developer>
 	</developers>
 </project>
